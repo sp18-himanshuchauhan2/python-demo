@@ -1,4 +1,6 @@
 # python-demo
 This is my first repo.
 <br>
-this is demo file.
+This is demo file.
+<br>
+And this is only for the demo purpose.
